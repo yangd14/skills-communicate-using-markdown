@@ -2,3 +2,13 @@
 
 ![UML diagram](https://cdn-images.visual-paradigm.com/guide/uml/uml-class-diagram-tutorial/17-class-diagram-example-order-system.png)
 
+```
+$ git init
+Initialzied emty Git repositor in /User/skills/Projects/recipe-repository/.git/
+```
+
+```Java
+public static void main(String args[]) {
+
+System.out.println("Hello World");
+}
