@@ -12,3 +12,8 @@ public static void main(String args[]) {
 
 System.out.println("Hello World");
 }
+```
+
+- [x] Read Description
+- [x] Give Input To Each Design
+- [ ] Completed All Assigned Tasks
